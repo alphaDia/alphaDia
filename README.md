@@ -3,14 +3,16 @@
 
 - 🔭 I’m currently working on [e-commerce](https://github.com/alphaDia/e-commerce)
 
+- 🌱 I’m currently learning **Angular, Android development**
+
 - 💬 Ask me about **Django, Django-rest-framework**
 
 - 📫 How to reach me **alphadiallo2235@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/https://twitter.com/adiallodev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="https://twitter.com/adiallodev" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/alphadev/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/alphadev/" height="30" width="40" /></a>
+<a href="https://twitter.com/adiallodev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="adiallodev" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/alphadev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="alphadev" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/13080122" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="13080122" height="30" width="40" /></a>
 </p>
 
